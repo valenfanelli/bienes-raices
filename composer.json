@@ -1,0 +1,19 @@
+{
+    "name": "memea/bienesraices",
+    "description": "Programacion orientada a objetos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "valenfanelli",
+            "email": "valentinafanelliaddiechi@hotmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
