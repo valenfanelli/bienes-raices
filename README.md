@@ -4,6 +4,8 @@ Una vez en el proyecto se debe correr npm install para instalar la carpeta node_
 Este proyecto cuenta con una base de datos SQL a la cual se accede desde PHP.
 
 La misma tiene la siguiente estructura:
+
+
 Table: propiedades
 
 
@@ -70,3 +72,14 @@ apellido varchar(45)
 
 
 telefono varchar(10)
+
+
+Ademas para el crud se tiene la tabla usuarios:
+
+id	int	
+
+
+email	varchar(50)			
+
+
+password	char(60)		
