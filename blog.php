@@ -13,7 +13,7 @@
                 </picture>
             </div>
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p>Escrito el: <span>22-01-2024</span> por: <span>Admin</span></p>
                     <p>Consejos para construir una terraza en el techo de tu casa con los mejores materiales a buen precio</p>
@@ -29,7 +29,7 @@
                 </picture>
             </div>
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Guia para la decoracion de tu hogar</h4>
                     <p>Escrito el: <span>22-01-2024</span> por: <span>Admin</span></p>
                     <p>Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles</p>
@@ -45,7 +45,7 @@
                 </picture>
             </div>
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p>Escrito el: <span>22-01-2024</span> por: <span>Admin</span></p>
                     <p>Consejos para construir una terraza en el techo de tu casa con los mejores materiales a buen precio</p>
